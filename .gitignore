@@ -1,0 +1,7 @@
+/.webpack_build_cache
+/cdn/
+/node_modules/
+/public/js/
+/public/sw.js
+/dist/wp/
+/src/stats.json
